@@ -1,5 +1,5 @@
 # Wrap Up for Security Basics 
-These are brief introductions to basics knowledge related to `cyber security`. The author :shipit: concluded these materials refering to the teaching sliders in :mortar_board: NTU :mortar_board:.
+These are brief introductions to basics knowledge related to `cyber security`. The author :shipit: concluded these materials refering to the teaching resources in :mortar_board: NTU :mortar_board:.
 
 | Folder Name  | Content |
 | ------------- | ------------- |
