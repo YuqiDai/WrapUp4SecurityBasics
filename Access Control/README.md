@@ -1,4 +1,4 @@
-## Chapter Three -- Access Control
+## Access Control
 ### 1. Definition of Access Control
 ***Access control is a selective restriction of access to a place of resource.***   
 Authentication is typically the first step for access control, after successful authentication, the system decides whether the request for accessing a place/resource is granted or not based on the predefined rules/policies.
