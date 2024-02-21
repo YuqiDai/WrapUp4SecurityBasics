@@ -10,7 +10,11 @@
 3. [Laws and regulations](./CH2_InforSec%20Governance.md/#3-laws-and-regulations)
 4. [Security Governance](./CH2_InforSec%20Governance.md/#4-security-governance)
 
-* ### Chapter three - Risk Analysis&Assessment
+* ### Chapter three - Risk Analysis and Assessment
 1. [Dilemmas for information security](./CH3_Risk%20Analysis&Assessment.md/#1-Dilemmas-for-information-security)
 2. [Risk Analysis](./CH3_Risk%20Analysis&Assessment.md/#2-risk-analysis)
 3. [Actualize Risk Analysis](./CH3_Risk%20Analysis&Assessment.md/#3-actualize-risk-analysis)
+
+* ### Chapter Four - Contingency Planning and Management
+1. [Contingency planning](./CH4_Contingency%20Planning&Management.md/#1-Contingency-planning)
+2. [ Multiple response paradigm](./CH4_Contingency%20Planning&Management.md/#2-multiple-response-paradigm)
